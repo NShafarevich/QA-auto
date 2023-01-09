@@ -1,2 +1,2 @@
-# Olya
+# QA-auto
 my victory
